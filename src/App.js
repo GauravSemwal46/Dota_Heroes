@@ -3,6 +3,7 @@ import React, {Component} from 'react';
 import {CardList} from './components/card-list/card-list.component';
 import {SearchBox} from './components/search-box/search-box.component';
 
+//This app will display all the characters of Dota 2.
 class App extends Component {
   constructor() {
     super();
